@@ -20,7 +20,7 @@ Project Title: Hotel Management System
 |      11 | Implementation Progress – 2 (Room management, booking module, database connectivity)                                                       | 27-09-2025 |
 |      12 | Project Interaction – Demo with Guide (Database creation and backend functionality)                                                        | 03-10-2025 |
 |      13 | Implementation Progress – 3 / Project Monitoring – 2                                                                                       | 14-10-2025 |
-**
+
 **📝 PROJECT DESCRIPTION****
 
 The Hotel Management System is a web-based application developed to automate and simplify hotel operations such as room management, booking, and customer record handling.
