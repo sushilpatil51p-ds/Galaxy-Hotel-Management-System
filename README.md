@@ -2,9 +2,40 @@
 
 Simple hotel booking website with content management system. Users can book rooms for specific dates. Admin can create, update, and delete room details. Admin can manage everything in the app.
 
-## Video
-<!--<a href="https://www.youtube.com/watch?v=rKwBxxVXWkM">click here..</a>-->
-https://github.com/tushar-2223/Hotel-Management-System/assets/87109400/08742fd7-5e7b-4459-90ef-c4e6b3e0cabd
+PROJECT LOGBOOK
+Project Title: Hotel Management System
+Sr. No.	Contents / Activity	Date
+1	Project Group Formation	19-07-2025
+2	Project Topic Finalization – Hotel Management System	16-08-2025
+3	Guide suggested to focus on Hotel Management System and start Requirement Gathering, Existing System Study, Scope and Feasibility Analysis	18-08-2025
+4	System Designing – Prepared Data Flow Diagram (DFD) and Entity Relationship (ER) Diagram	30-08-2025
+5	Discussion on Software and Hardware Requirements with guide; finalized tools, technologies, and platform	06-09-2025
+6	Abstract Preparation – Short summary and overview of the project	10-09-2025
+7	Home Page Design – Basic layout for room listing and room search	13-09-2025
+8	Login Page Design – Admin and Customer	15-09-2025
+9	Registration Page Design – Customer	17-09-2025
+10	Designing and Implementation Progress – 1 / Project Monitoring – 1	20-09-2025
+11	Implementation Progress – 2 (Room management, booking module, database connectivity)	27-09-2025
+12	Project Interaction – Demo with Guide (Database creation and backend functionality)	03-10-2025
+13	Implementation Progress – 3 / Project Monitoring – 2	14-10-2025
+PROJECT DESCRIPTION
+
+The Hotel Management System is a web-based application developed to automate and simplify hotel operations such as room management, booking, and customer record handling.
+The system provides an efficient platform for both hotel administrators and customers to manage hotel services digitally.
+
+Customers can view available rooms, check room details, and make online bookings, while administrators can manage room information, booking records, and customer data.
+The system reduces manual work, minimizes errors, and improves efficiency in hotel operations.
+
+Overall, the project enhances customer experience and ensures smooth hotel management through a centralized and user-friendly web application.
+
+TECHNOLOGIES USED
+Category	Technologies
+Frontend	HTML, CSS, JavaScript
+Backend	Node.js
+Database	MySQL
+Version Control	Git, GitHub
+Development Tools	Visual Studio Code (VS Code)
+Platform	Web-based Application
 
 ## Tech Stack 
 
