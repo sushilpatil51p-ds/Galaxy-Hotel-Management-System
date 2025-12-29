@@ -53,9 +53,13 @@ BOOTSTRAP
 **Team Members:**
 
 Member 1: Harsh Mali
+
 Member 2: Sushil Patil
+
 Member 3: Rohit Patil
+
 Member 4: Nikhil Mali
+
 Guide: Prof. Atul D. Mairele.
 
 ## Requirements Windows:
