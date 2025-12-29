@@ -34,7 +34,7 @@ Overall, the project enhances customer experience and ensures smooth hotel manag
 | Category          | Technologies                 |
 | ----------------- | ---------------------------- |
 | Frontend          | HTML, CSS, JavaScript        |
-| Backend           | Node.js                      |
+| Backend           | PHP                     |
 | Database          | MySQL                        |
 | Version Control   | Git, GitHub                  |
 | Development Tools | Visual Studio Code (VS Code) |
@@ -50,6 +50,13 @@ JAVASCRIPT
 PHP
 BOOTSTRAP 
 ```
+**Team Members:**
+
+Member 1: Harsh Mali
+Member 2: Sushil Patil
+Member 3: Rohit Patil
+Member 4: Nikhil Mali
+Guide: Prof. Atul D. Mairele.
 
 ## Requirements Windows:
 
